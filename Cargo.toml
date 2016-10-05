@@ -1,12 +1,12 @@
 [package]
 name = "statusio"
-description = "A Rust-Lang library for Status.io functions."
+description = "A Rust-Lang library for Statusi.o functions."
 documentation = "https://docs.rs/crate/statusio"
 readme = "README.md"
 version = "1.0.0"
 authors = ["Eric Coan <ecoan@instructure.com>"]
 license = "MIT"
-keywords = ["statuspage", "api", "library", "status", "status.io"]
+keywords = ["statuspage", "api", "library", "status"]
 
 [dependencies]
 chrono = { version = "0.2", features = ["rustc-serialize"] }
